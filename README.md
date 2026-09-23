@@ -21,6 +21,6 @@ The website is built entirely using **HTML, CSS, and JavaScript**, with no backe
 
 ## 🛠️ Technologies Used
 
-- **HTML5** — Website structure
-- **CSS3** — Styling and responsive layout
+- **HTML** — Website structure
+- **CSS** — Styling and responsive layout
 - **JavaScript** — Menu interactions and order functionality
